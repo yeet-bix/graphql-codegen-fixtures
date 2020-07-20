@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/yeet-bix/graphql-codegen-fixtures/compare/v1.0.1...v1.0.2) (2020-07-20)
+
+
+### Bug Fixes
+
+* **deps:** move graphql to peer deps ([10a36d5](https://github.com/yeet-bix/graphql-codegen-fixtures/commit/10a36d550f9ba7a0485243831da3e0cc0d4c3cd3))
+
 ## [1.0.1](https://github.com/yeet-bix/graphql-codegen-fixtures/compare/v1.0.0...v1.0.1) (2020-07-20)
 
 
