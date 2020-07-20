@@ -25,6 +25,7 @@
         "eslint": "^7.4.0",
         "eslint-config-prettier": "^6.11.0",
         "eslint-plugin-prettier": "^3.1.4",
+        "graphql": "^15.3.0",
         "prettier": "^2.0.5",
         "rimraf": "^3.0.2",
         "semantic-release": "^17.1.1",
@@ -33,8 +34,10 @@
     "dependencies": {
         "@graphql-codegen/plugin-helpers": "^1.16.3",
         "@graphql-codegen/visitor-plugin-common": "^1.16.3",
-        "deepmerge": "^4.2.2",
-        "graphql": "^15.3.0"
+        "deepmerge": "^4.2.2"
+    },
+    "peerDependencies": {
+        "graphql": "^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0"
     },
     "config": {
         "commitizen": {
